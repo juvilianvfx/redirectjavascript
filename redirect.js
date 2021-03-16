@@ -1,1 +1,1 @@
-location.href = 'https://www.javascripttutorial.net/';
+window.location = "https://www.javascripttutorial.net/";
